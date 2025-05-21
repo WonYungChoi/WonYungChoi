@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WonYungChoi!
 - 👀 I’m interested in AI based tools for scientists.
-- 🌱 I’m currently learning about Python and DL algorithms.
 - 💞️ I’m looking to collaborate on Pyton snippets that can plug into Leica's Aivia
 - 📫 email me at wonyung.choi at leica-microsystems dot com
 
